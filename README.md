@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Logo_Sin_Fondo.png" alt="Logo SICRCB" width="250" height="250">
+  <img src="[./Logo_Sin_Fondo.png](https://raw.githubusercontent.com/tocora226/SICRCB/refs/heads/nicolas-desarrollo/Trimestre-1/Logo/Logo_Sin_Fondo.png)" alt="Logo SICRCB" width="250" height="250">
 </p>
 
 
